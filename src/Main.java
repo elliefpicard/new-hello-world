@@ -10,12 +10,12 @@ public class Main {
      * Say hello!
      */
     public static void main(String[] args) {
-        System.out.println("Hello world!");}
-
+        System.out.println("Hello world!");
+        System.out.println("Hello world, again!");}
 
     /* The source code has been modified and commented,
     a second commit will be made and pushed to GitHub from local.
      */
 
-    
+
 }
